@@ -1,2 +1,2 @@
 # garrys-mod-memory-addys
-Memory adresses for garrys mod :/
+You can use addy's to make your own internal hack.
